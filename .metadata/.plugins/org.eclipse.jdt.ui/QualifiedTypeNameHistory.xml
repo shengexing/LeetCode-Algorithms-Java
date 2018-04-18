@@ -5,4 +5,12 @@
 <fullyQualifiedTypeName name="CountAndSay"/>
 <fullyQualifiedTypeName name="AddBinary"/>
 <fullyQualifiedTypeName name="SqrtX"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="Test"/>
+<fullyQualifiedTypeName name="javax.swing.JComponent"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="javax.swing.BorderFactory"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="MergeSortedArray"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
 </qualifiedTypeNameHistroy>
