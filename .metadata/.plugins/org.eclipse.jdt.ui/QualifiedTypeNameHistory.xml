@@ -12,5 +12,9 @@
 <fullyQualifiedTypeName name="javax.swing.BorderFactory"/>
 <fullyQualifiedTypeName name="java.awt.Color"/>
 <fullyQualifiedTypeName name="MergeSortedArray"/>
+<fullyQualifiedTypeName name="SymmetricTree.TreeNode"/>
+<fullyQualifiedTypeName name="MaximumDepthofBinaryTree.TreeNode"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
 </qualifiedTypeNameHistroy>
