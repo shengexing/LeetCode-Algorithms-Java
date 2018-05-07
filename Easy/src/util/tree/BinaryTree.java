@@ -2,6 +2,8 @@ package util.tree;
 
 public class BinaryTree {
 	
+	final static int empty = Integer.MIN_VALUE;	// 定义空结点的值
+	
 	int val;
 	BinaryTree left;
 	BinaryTree right;
@@ -16,7 +18,6 @@ public class BinaryTree {
 	}
 
 	public static void main(String[] args) {
-
 	}
 
 }

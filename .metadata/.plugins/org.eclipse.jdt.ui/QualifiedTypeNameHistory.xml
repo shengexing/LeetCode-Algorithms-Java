@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="ImplementStr"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="CountAndSay"/>
 <fullyQualifiedTypeName name="AddBinary"/>
 <fullyQualifiedTypeName name="SqrtX"/>
@@ -14,7 +13,19 @@
 <fullyQualifiedTypeName name="MergeSortedArray"/>
 <fullyQualifiedTypeName name="SymmetricTree.TreeNode"/>
 <fullyQualifiedTypeName name="MaximumDepthofBinaryTree.TreeNode"/>
-<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="BinaryTreeLevelOrderTraversalII.TreeNode"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="ConvertSortedArraytoBinarySearchTree"/>
+<fullyQualifiedTypeName name="ConvertSortedArraytoBinarySearchTree.TreeNode"/>
+<fullyQualifiedTypeName name="java.util.Deque"/>
+<fullyQualifiedTypeName name="BalancedBinaryTree.TreeNode"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="MinimumDepthofBinaryTree.TreeNode"/>
+<fullyQualifiedTypeName name="MinimumDepthofBinaryTree"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="PathSum"/>
+<fullyQualifiedTypeName name="PathSum.TreeNode"/>
 </qualifiedTypeNameHistroy>
