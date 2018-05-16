@@ -20,7 +20,6 @@
 <fullyQualifiedTypeName name="ConvertSortedArraytoBinarySearchTree.TreeNode"/>
 <fullyQualifiedTypeName name="java.util.Deque"/>
 <fullyQualifiedTypeName name="BalancedBinaryTree.TreeNode"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="MinimumDepthofBinaryTree.TreeNode"/>
 <fullyQualifiedTypeName name="MinimumDepthofBinaryTree"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
@@ -28,4 +27,6 @@
 <fullyQualifiedTypeName name="java.util.Stack"/>
 <fullyQualifiedTypeName name="PathSum"/>
 <fullyQualifiedTypeName name="PathSum.TreeNode"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="BestTimetoBuyandSellStock"/>
 </qualifiedTypeNameHistroy>
