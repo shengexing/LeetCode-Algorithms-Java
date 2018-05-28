@@ -60,7 +60,7 @@ public class TwoSumIIInputarrayissorted {
 		return false;
 	}
 
-	public int[] twoSum_3(int[] numbers, int target) { 
+	public int[] twoSum_3(int[] numbers, int target) {
 		int l = 0, h = numbers.length - 1;
 		
 		int [] res = new int [2];
